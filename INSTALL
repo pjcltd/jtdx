@@ -85,6 +85,7 @@ $ mkdir -p ~/jtdx-prefix/build
 $ cd ~/jtdx-prefix
 $ git clone git://git.code.sf.net/p/jtdx/code src
 
+sudo apt-get install libqt5websockets5-dev
 
 To build JTDX you will need CMake and asciidoc installed.
 
